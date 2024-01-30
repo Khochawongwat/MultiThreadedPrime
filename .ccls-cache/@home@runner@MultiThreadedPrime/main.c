@@ -31,7 +31,7 @@
 
   ## Testing
   
-  The test reads the generated prime numbers from the file and verifies that all numbers are indeed prime and contains 5133 numbers. If the test passes, it prints "Test passed: All numbers in the file are prime and there are 5133 numbers". If the test fails, it prints "Test failed" along with the non-prime number.
+  The test reads the generated prime numbers from the file and verifies that all numbers are prime and contains 5133 numbers. If the test passes, it prints "Test passed: All numbers in the file are prime and there are 5133 numbers". If the test fails, "Test failed" along with the non-prime number.
 */
 
 typedef struct {
